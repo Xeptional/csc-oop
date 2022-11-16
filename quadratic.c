@@ -3,6 +3,18 @@
 
 // gcc quadratic.c  -o quadratic -lm
 
+// UUUUDUUDUDUDUDUUUUDUDUDUUUDUUDDUDUUDDD
+//  int numstep = 0;
+//  for(int i=1; i <= strlen(string); ) {
+//    //test if character is U or D
+//    if(char = U) {
+//      numstep+=1;
+//      i++;
+//    } else {
+//      break
+//    }
+//  }
+
 int main()
 {
   float a, b, c, dis, root1, root2;
